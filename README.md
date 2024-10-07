@@ -32,13 +32,11 @@ Glide.with(holder.itemView.context)
 
 ## Video Walkthrough Potrait
 
-Here's a walkthrough of implemented user stories:  
 <img src='gifs/Flixster_Part_1_Potrait_VideoGif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />  
 
 
 ## Video Walkthrough Landscape
 
-Here's a walkthrough of implemented user stories:  
 <img src='gifs/Flixster_Part_1_Landscape_VideoGif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />  
 GIF created with ... ezgif.com
 
