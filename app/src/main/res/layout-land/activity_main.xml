@@ -17,7 +17,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         android:padding="16dp"
-        app:title="Movie List"
+        app:title="Movie List (Landscape)"
         android:titleTextColor="@android:color/white"/>
 
     <!-- RecyclerView for displaying the list of movies -->
